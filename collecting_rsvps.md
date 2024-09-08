@@ -2,7 +2,7 @@
 title: "Collecting RSVPs"
 layout: page
 ---
-**Collecting RSVPs**
+# Collecting RSVPs
 
 Certain events require you to know who's planning to attend. This helps you plan for the right number of people and make sure you have enough supplies.
 You can collect RSVPs for any event in Scoutplan. Here's how:
