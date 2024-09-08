@@ -2,9 +2,12 @@
 title: "Recording Payments"
 layout: page
 ---
+**Recording payments**
+
 When you ask your members to pay for events, you can record their payments in Scoutplan.
 This helps you keep track of who has paid and who hasn't. It also helps you see how much money you've collected and how much you're still waiting for.
-Payment recording only applies to events that have a cost associated with them. If you're not charging for an event, you don't need to record payments.
+Payment recording only applies to events that [require RSVPs](/docs/collecting_rsvps) and that have a cost associated with them.
+If you're not charging for an event, you don't need to record payments.
 
 To get started, set a cost for your event:
 1. Navigate to the event you want to record payments for.
